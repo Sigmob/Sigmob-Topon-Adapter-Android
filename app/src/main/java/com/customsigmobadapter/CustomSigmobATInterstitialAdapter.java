@@ -109,7 +109,7 @@ public class CustomSigmobATInterstitialAdapter extends CustomInterstitialAdapter
 
                 try {
                     if (!TextUtils.isEmpty(ecpmStr)) {
-                        ecpm = Double.parseDouble(ecpmStr) / 100.0;
+                        ecpm = Double.parseDouble(ecpmStr);
                     } else {
                         onAdLoadError("", "ecpm is null");
                     }
