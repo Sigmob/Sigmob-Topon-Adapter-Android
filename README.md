@@ -28,7 +28,7 @@
 开发者可根据业务自行调整参数。
 
 
-Top官方自定义广告平台文档：[https://docs.toponad.com/?id=/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_adapter#/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_adapter](https://docs.toponad.com/?id=/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_adapter#/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_adapter)
+Topon官方自定义广告平台文档：[https://docs.toponad.com/?id=/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_adapter#/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_adapter](https://docs.toponad.com/?id=/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_adapter#/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_adapter)
 
 实现自定义 header bidding：[https://docs.toponad.com/#/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_c2s_adapter_simple](https://docs.toponad.com/#/zh-cn/android/adroid_adv_doc/customnetwork/custom_network_c2s_adapter_simple)
 
