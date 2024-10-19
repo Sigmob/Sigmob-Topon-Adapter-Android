@@ -9,7 +9,7 @@
 |           |---- main
 |                |---- java/com/customsigmobadapter   # 基于takuad（Topon）聚合的自定义渠道实现sigmob新插屏的适配器
 |                              |---- CustomSigmobATBiddingNotice.java    # C2S竞价的通知类
-|                              |---- CustomSigmobATBiddingATInterstitialAdapter.java   # C2S 竞价及普通新插屏广告加载及播放
+|                              |---- CustomSigmobATInterstitialAdapter.java   # C2S 竞价及普通新插屏广告加载及播放
 ```
 
 
